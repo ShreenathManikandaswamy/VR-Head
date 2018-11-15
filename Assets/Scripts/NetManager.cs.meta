@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a3fb31b585f9b4f6cba7827ccfe339d3
+timeCreated: 1530011239
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - avatarprefab: {fileID: 1448349004935444, guid: f028b1fd6a3f54c79a6e08a9798d8875,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
